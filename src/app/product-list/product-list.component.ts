@@ -11,7 +11,7 @@ export class ProductListComponent {
   products = products;
 
   share() {
-    window.alert('The product has been shared the ET-710 Class!');
+    window.alert('The product has been shared with the ET-710 Class!');
   }
 }
 
